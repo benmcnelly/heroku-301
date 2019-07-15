@@ -8,7 +8,7 @@ Example: http://redirectme.fbstudios.com/
 Setup and deploying
 ------------
 
- 1. Clone this repository
+ 1. Fork this repository
  2. Change domain name in domain.py inside redirect folder
  3. Click deploy to heroku
  4. Assign domains to heroku app
