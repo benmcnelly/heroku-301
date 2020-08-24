@@ -1,1 +1,1 @@
-redirect_domain = 'gunspot.com'
+redirect_domain = 'gunspot.com/machineguncentral'
